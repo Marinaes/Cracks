@@ -1,8 +1,8 @@
 <html>
 <head>
-    <title>Pokimae</title>
+    <title>Pokeveris</title>
 </head>
 <body>
-    <h2>Bienvenid@ a PokemonCrack! Elige </h2>
+    <h2>Bienvenid@ a Pokeveris! </h2>
 </body>
 </html>
